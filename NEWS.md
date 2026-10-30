@@ -1,3 +1,7 @@
+# pynsee 0.2.6
+
+* The melodi submodule has been integrated into pynsee to access Insee's Melodi open data API.
+  
 # pynsee 0.2.5
 
 **SIRENE bugfixes**
