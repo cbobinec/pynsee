@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Copyright : INSEE, 2021
+# Copyright : INSEE, 2026
 
 # %% import des modules externes
 import requests
